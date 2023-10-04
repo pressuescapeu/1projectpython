@@ -1,0 +1,37 @@
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\bin\Debug\1ProjectPython.exe.config
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\bin\Debug\1ProjectPython.exe
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\bin\Debug\1ProjectPython.pdb
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csprojAssemblyReference.cache
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form1.resources
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Properties.Resources.resources
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csproj.GenerateResource.cache
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csproj.CoreCompileInputs.cache
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.exe
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.pdb
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form2.resources
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\Interop.WMPLib.dll
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csproj.ResolveComReference.cache
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\bin\Debug\Interop.WMPLib.dll
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LogyCom\Desktop\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form3.resources
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\bin\Debug\pythondb.mdb
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\bin\Debug\1ProjectPython.exe.config
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\bin\Debug\1ProjectPython.exe
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\bin\Debug\1ProjectPython.pdb
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form1.resources
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form2.resources
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form3.resources
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form4.resources
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Properties.Resources.resources
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.exe
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\1ProjectPython.pdb
+C:\Users\User\OneDrive - Autonomous Educational Organization Nazarbayev Intellectual Schools\Рабочий стол\1ProjectPython\1ProjectPython\obj\Debug\_1ProjectPython.Form5.resources
